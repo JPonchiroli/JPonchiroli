@@ -2,9 +2,10 @@
 
 ### Contact
 
-<a href="mailto:joaopedroponqueroli@gmail.com">
+<a href=”mailto:piotr@mailtrap.io, john@mailtrap.io, kate@mailtrap.io”>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 
 <div style="display: inline-block">
 
