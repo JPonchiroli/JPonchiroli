@@ -1,7 +1,6 @@
 ### Hi there, my name is João Pedro, a technology enthusiast in the 3rd year of High School, where I study Systems Development and I'm taking Entra21.👋
 
 ### Contact
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <div style="display: inline-block">
 
