@@ -7,7 +7,7 @@
 </a>
 
 <a href="mailto:joaopedroponqueroli@gmail.com" target="_blank">
-  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 
