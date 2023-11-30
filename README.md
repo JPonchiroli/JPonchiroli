@@ -6,6 +6,10 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="mailto:joaopedroponqueroli@gmail.com" target="_blank">
+  <img alt="Gmail" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)">
+</a>
+
 
 <div style="display: inline-block">
 
