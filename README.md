@@ -3,7 +3,7 @@
 <div style="display: inline-block">
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPonchiroli&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPonchiroli&layout=compact&theme=dracula)
 
 ### Technologys
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
