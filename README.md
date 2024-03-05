@@ -12,22 +12,11 @@
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-### Badges
+###   
+
 
 <div style="display: inline-block">
-  <!-- Badge do Credly -->
-  <div
-    data-iframe-width="150"
-    data-iframe-height="270"
-    data-share-badge-id="4742c96a-25df-4731-8406-32f6a18e1f4e"
-    data-share-badge-host="https://www.credly.com"
-  ></div>
-  <script
-    type="text/javascript"
-    async
-    src="//cdn.credly.com/assets/utilities/embed.js"
-  ></script>
-</div>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPonchiroli&layout=compact&theme=dracula)
 
@@ -44,6 +33,8 @@
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
+
+</div>
 
 <br>
 💼 My goal is to enter the IT job market and contribute with innovative solutions. I am open to internship opportunities and collaborations on challenging projects.
