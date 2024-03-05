@@ -33,6 +33,7 @@
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
+
 ```html
 <div
   data-iframe-width="150"
@@ -45,8 +46,6 @@
   async
   src="//cdn.credly.com/assets/utilities/embed.js"
 ></script>
-</div>
-```html
 
 <br>
 💼 My goal is to enter the IT job market and contribute with innovative solutions. I am open to internship opportunities and collaborations on challenging projects.
