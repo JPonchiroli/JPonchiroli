@@ -33,7 +33,7 @@
 <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <br>
-<img src="//cdn.credly.com/assets/utilities/embed.js" alt="Credly Badge" width="150" height="270">
+<img src="https://cdn.credly.com/assets/utilities/embed.js" alt="Credly Badge" width="150" height="270">
 
 
 </div>
