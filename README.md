@@ -1,4 +1,4 @@
-### Hi there, my name is João Pedro, a technology enthusiast in the 3rd year of High School, where I study Systems Development and I'm taking Entra21.👋
+### Hello, my name is João Pedro, technology enthusiast, studying 1st semester of college in Systems Analysis and Development.👋
 
 ### Contact
 
