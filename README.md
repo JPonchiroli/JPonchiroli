@@ -1,4 +1,4 @@
-### Hello, my name is João Pedro, technology enthusiast, studying 2st semester of college in Systems Analysis and Development.👋
+### Hello, my name is João Pedro, technology enthusiast, studying 3st semester of college in Systems Analysis and Development.👋
 
 ### Contact
 
