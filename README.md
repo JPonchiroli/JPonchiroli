@@ -15,12 +15,10 @@
 <div align="center">  
 
 <img
-  width="50%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPonchiroli&layout=compact&hide_border=true&title_color=B253FF&text_color=c9d1d9&bg_color=0d1117"
 />
 
 <img
-  width="70%"
   src="https://github-readme-streak-stats.herokuapp.com/?user=JPonchiroli&hide_border=true&background=0D1117&ring=B253FF&fire=B253FF&currStreakLabel=B253FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
   alt="Github Streak"
 />
