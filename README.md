@@ -19,7 +19,7 @@
 />
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=JPonchiroli&hide_border=true&background=0D1117&ring=B253FF&fire=B253FF&currStreakLabel=B253FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=JPonchiroli&hide_border=true&background=0D1117&ring=B253FF&fire=B253FF&currStreakLabel=B253FF&currStreakNum=FFF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
   alt="Github Streak"
 />
 
