@@ -2,7 +2,7 @@
 
 - 🎓 <strong>Graduating</strong> in Analysis and development of systems 
 - ☕ Acting as an <strong>Web Intern</strong>
-- 👩‍💻 <strong>Fullstack Development | BackEnd | Frontend</strong>
+- 👩‍💻 <strong>Fullstack Development | BackEnd | FrontEnd</strong>
 
 <h2> My Skills </h2>
 
